@@ -1,7 +1,7 @@
 {
-  "version": "0.2.1",
+  "version": "0.2.2",
   "name": "Atlas Personal (beta)",
-  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.2.1-personal",
-  "notes": "Backups are now a single .zip file (atlas-<date>.zip) with the manifest inside — easier to carry between machines. Import/restore still reads older .tar.gz backups, and even a .zip that wraps an old backup.",
+  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.2.2-personal",
+  "notes": "You can now turn off the 'Back up before quitting?' prompt in Preferences ▸ Behaviour. The Import dialog wording was updated for the new .zip backups (older backups still restore).",
   "channel": "personal"
 }
