@@ -1,7 +1,7 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "name": "Atlas Personal (beta)",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v0.2.0-personal",
-  "notes": "Atlas Personal 0.2.0 — Atlas Personal (beta). See the release notes for what changed.",
+  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.2.1-personal",
+  "notes": "Backups are now a single .zip file (atlas-<date>.zip) with the manifest inside — easier to carry between machines. Import/restore still reads older .tar.gz backups, and even a .zip that wraps an old backup.",
   "channel": "personal"
 }
