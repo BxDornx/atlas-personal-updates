@@ -1,7 +1,7 @@
 {
-  "version": "0.2.3",
+  "version": "0.2.4",
   "name": "Atlas Personal (beta)",
-  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.2.3-personal",
-  "notes": "Internal cleanup: removed the leftover Git settings (git sync of user data was retired).",
+  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.2.4-personal",
+  "notes": "The Appearance preferences now include font family and weight, an accent-colour override, and a Light/Dark/Auto appearance mode (Auto follows your Mac).",
   "channel": "personal"
 }
