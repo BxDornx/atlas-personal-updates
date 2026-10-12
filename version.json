@@ -1,7 +1,7 @@
 {
-  "version": "0.2.5",
+  "version": "0.3.0",
   "name": "Atlas Personal (beta)",
-  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.2.5-personal",
-  "notes": "Fixed the Preferences sidebar: the selected section was hard to read (white text on a pale pill) and a long dropdown could overflow the dialog edge.",
+  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.3.0-personal",
+  "notes": "New Roadmap view: a navigable, video-scrubber-style timeline of your system plan over a cosmic backdrop. Scroll through time, see tasks/decisions/milestones on lanes, click any item for details and deep links into the rest of Atlas.",
   "channel": "personal"
 }
