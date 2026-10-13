@@ -1,7 +1,7 @@
 {
-  "version": "0.4.0",
+  "version": "0.5.0",
   "name": "Atlas Personal (beta)",
-  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.4.0-personal",
-  "notes": "The Roadmap is now a planner: create multiple named roadmaps per project (left sidebar), with your own tracks and authored milestones, releases, features and phases. Drag to reschedule, resize ranges, and link items into Atlas.",
+  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.5.0-personal",
+  "notes": "Atlas Personal is now modular under the hood — a Base (Architect) plus optional upgrade modules (Requirements, Composer, Roadmap, Command Center). The mechanism is in place but off by default, so nothing changes for you yet.",
   "channel": "personal"
 }
