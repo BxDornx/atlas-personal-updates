@@ -1,7 +1,7 @@
 {
-  "version": "0.3.0",
+  "version": "0.3.1",
   "name": "Atlas Personal (beta)",
-  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.3.0-personal",
-  "notes": "New Roadmap view: a navigable, video-scrubber-style timeline of your system plan over a cosmic backdrop. Scroll through time, see tasks/decisions/milestones on lanes, click any item for details and deep links into the rest of Atlas.",
+  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.3.1-personal",
+  "notes": "Roadmap: dense dates now collapse into a clickable count bubble instead of an unreadable blob, and the cosmic background gained nebulae and spiral galaxies.",
   "channel": "personal"
 }
