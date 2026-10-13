@@ -1,7 +1,7 @@
 {
-  "version": "0.3.1",
+  "version": "0.4.0",
   "name": "Atlas Personal (beta)",
-  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.3.1-personal",
-  "notes": "Roadmap: dense dates now collapse into a clickable count bubble instead of an unreadable blob, and the cosmic background gained nebulae and spiral galaxies.",
+  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.4.0-personal",
+  "notes": "The Roadmap is now a planner: create multiple named roadmaps per project (left sidebar), with your own tracks and authored milestones, releases, features and phases. Drag to reschedule, resize ranges, and link items into Atlas.",
   "channel": "personal"
 }
