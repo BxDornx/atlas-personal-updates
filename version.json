@@ -1,7 +1,7 @@
 {
-  "version": "0.6.0",
+  "version": "0.6.1",
   "name": "Atlas Personal (beta)",
-  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.6.0-personal",
-  "notes": "New: per-domain documentation. Tag your model by tech domain (RF, firmware, power…), then generate a versioned specification that pulls every tagged requirement, design element and its traceability into one document — exportable, and editable in Composer.",
+  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.6.1-personal",
+  "notes": "Roadmap now uses a clean standard background instead of the space/galaxy theme.",
   "channel": "personal"
 }
