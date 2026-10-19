@@ -1,7 +1,7 @@
 {
-  "version": "0.6.1",
+  "version": "0.7.0",
   "name": "Atlas Personal (beta)",
-  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.6.1-personal",
-  "notes": "Roadmap now uses a clean standard background instead of the space/galaxy theme.",
+  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.7.0-personal",
+  "notes": "Artifact Lens — right-click any requirement or element and jump to every other view of it across the suite (model links, diagrams, tasks, roadmap, domains) from one popover.",
   "channel": "personal"
 }
