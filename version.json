@@ -1,7 +1,7 @@
 {
-  "version": "0.10.0",
+  "version": "0.11.0",
   "name": "Atlas Personal (beta)",
-  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.10.0-personal",
-  "notes": "A welcome example that shows the whole app — a complete Digital Thermostat project (14 requirements, 6 SysML diagrams, a full specification, traceability matrix, a verification run, a delivery roadmap, documentation domains and tasks), provisioned automatically on a fresh install.",
+  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.11.0-personal",
+  "notes": "Projects live in Composer; the model pool is shared and delineated by tags. New 'Find elements by tag' dialog in Composer to search and reuse any pool element or requirement, with the document's project tag auto-applied so reuse is effortless.",
   "channel": "personal"
 }
