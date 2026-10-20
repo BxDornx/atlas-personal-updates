@@ -1,7 +1,7 @@
 {
-  "version": "0.12.1",
+  "version": "0.12.2",
   "name": "Atlas Personal (beta)",
-  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.12.1-personal",
-  "notes": "Fix: the HAL pill now opens the related/everywhere Lens on the first click (it previously needed two), and reflects the selected element immediately.",
+  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.12.2-personal",
+  "notes": "Fix: opening a diagram from the shared model pool could show an empty canvas; views now hydrate with their elements from any project lens.",
   "channel": "personal"
 }
