@@ -1,7 +1,7 @@
 {
-  "version": "0.7.0",
+  "version": "0.8.0",
   "name": "Atlas Personal (beta)",
-  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.7.0-personal",
-  "notes": "Artifact Lens — right-click any requirement or element and jump to every other view of it across the suite (model links, diagrams, tasks, roadmap, domains) from one popover.",
+  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.8.0-personal",
+  "notes": "Related dock — a persistent right-edge rail that follows your selection and shows everywhere the artifact appears (model links, diagrams, tasks, roadmap, domains). The always-on companion to the right-click Lens.",
   "channel": "personal"
 }
