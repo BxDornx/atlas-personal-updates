@@ -1,7 +1,7 @@
 {
-  "version": "0.13.0",
+  "version": "0.14.0",
   "name": "Atlas Personal (beta)",
-  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.13.0-personal",
-  "notes": "Hover any SysML/UML term (block, association, satisfy, BDD, MUST/SHOULD/MAY, …) for a plain-language definition and a link to the official OMG/IETF standard. 43 terms shipped; HAL 'define <term>' looks up any of them.",
+  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.14.0-personal",
+  "notes": "Interactive tutorial — guided coach-mark tours over the real UI. A Welcome Tour of the whole app plus per-surface tours (Requirements, Architect, Composer, HAL & the Lens), offered on first run and launchable anytime from the new Help menu.",
   "channel": "personal"
 }
