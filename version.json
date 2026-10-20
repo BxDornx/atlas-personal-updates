@@ -1,7 +1,7 @@
 {
-  "version": "0.9.0",
+  "version": "0.10.0",
   "name": "Atlas Personal (beta)",
-  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.9.0-personal",
-  "notes": "HAL jumper — select an artifact, summon HAL (⌘P), type 'jump', and teleport to any cross-app view of it: its home view plus every diagram, requirement, test, task, roadmap item and domain that references it. Completes the three-layer Artifact Lens.",
+  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.10.0-personal",
+  "notes": "A welcome example that shows the whole app — a complete Digital Thermostat project (14 requirements, 6 SysML diagrams, a full specification, traceability matrix, a verification run, a delivery roadmap, documentation domains and tasks), provisioned automatically on a fresh install.",
   "channel": "personal"
 }
