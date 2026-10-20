@@ -1,7 +1,7 @@
 {
-  "version": "0.12.2",
+  "version": "0.13.0",
   "name": "Atlas Personal (beta)",
-  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.12.2-personal",
-  "notes": "Fix: opening a diagram from the shared model pool could show an empty canvas; views now hydrate with their elements from any project lens.",
+  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.13.0-personal",
+  "notes": "Hover any SysML/UML term (block, association, satisfy, BDD, MUST/SHOULD/MAY, …) for a plain-language definition and a link to the official OMG/IETF standard. 43 terms shipped; HAL 'define <term>' looks up any of them.",
   "channel": "personal"
 }
