@@ -1,7 +1,7 @@
 {
-  "version": "0.8.0",
+  "version": "0.9.0",
   "name": "Atlas Personal (beta)",
-  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.8.0-personal",
-  "notes": "Related dock — a persistent right-edge rail that follows your selection and shows everywhere the artifact appears (model links, diagrams, tasks, roadmap, domains). The always-on companion to the right-click Lens.",
+  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.9.0-personal",
+  "notes": "HAL jumper — select an artifact, summon HAL (⌘P), type 'jump', and teleport to any cross-app view of it: its home view plus every diagram, requirement, test, task, roadmap item and domain that references it. Completes the three-layer Artifact Lens.",
   "channel": "personal"
 }
