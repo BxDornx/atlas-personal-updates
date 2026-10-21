@@ -1,7 +1,7 @@
 {
-  "version": "0.14.0",
-  "name": "Atlas Personal (beta)",
-  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.14.0-personal",
-  "notes": "Interactive tutorial — guided coach-mark tours over the real UI. A Welcome Tour of the whole app plus per-surface tours (Requirements, Architect, Composer, HAL & the Lens), offered on first run and launchable anytime from the new Help menu.",
+  "version": "0.15.0",
+  "name": "Atlas Systems Architect (beta)",
+  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.15.0-personal",
+  "notes": "Atlas Personal 0.15.0 — Atlas Systems Architect (beta). See the release notes for what changed.",
   "channel": "personal"
 }
