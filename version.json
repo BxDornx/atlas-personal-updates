@@ -1,7 +1,7 @@
 {
-  "version": "0.18.0",
-  "name": "Atlas Systems Architect — Document (beta)",
-  "url": "https://github.com/BxDornx/atlas-personal/releases/tag/v0.18.0-personal",
-  "notes": "Atlas Systems Architect 0.18.0 — Atlas Systems Architect — Document (beta). See the release notes for what changed.",
-  "channel": "personal"
+  "version": "0.19.0",
+  "name": "Harbor (beta)",
+  "url": "https://github.com/BxDornx/atlas-systems-architect/releases/tag/v0.19.0",
+  "notes": "Atlas Systems Architect 0.19.0 — Harbor (beta). See the release notes for what changed.",
+  "dmg": "https://github.com/BxDornx/atlas-systems-architect/releases/download/v0.19.0/Atlas-0.19.0.dmg"
 }
